@@ -27,6 +27,5 @@ class Node:
 
         def getNext(self):
             return self.next
-
     except ValueError:
         print("----------------------Oops Something Went Wrong----------------------")

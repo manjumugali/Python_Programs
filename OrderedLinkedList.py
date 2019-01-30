@@ -35,7 +35,11 @@ class OrderedLinkedList:
         print()
         print()
         print("***************************Enter The Number To Search******************************************\n")
-        num1 = int(input())  # reading word to search in LinkedList
+        num5 = input()  # reading Number to search in LinkedList
+        while not num5.isdigit():
+            print("Enter only Number")
+            num5 = input()
+        num1 = int(num5)
         res = l1.search(num1)  # Invoking search() Method to search element in linked list
 
         if res is True:  # if element present in linked list  else not present
