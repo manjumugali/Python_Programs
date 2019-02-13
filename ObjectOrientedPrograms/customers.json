@@ -1,0 +1,81 @@
+{
+  "customer": [
+    {
+      "name": "Manju",
+      "address": "sankeswar",
+      "phone_no": "91-8861181119",
+      "no_of_share": 53,
+      "amount": -75000
+    },
+    {
+      "name": "Sagar",
+      "address": "gulbarga",
+      "phone_no": "91-8861181119",
+      "no_of_share": 10,
+      "amount": 3000
+    },
+    {
+      "name": "Sanju",
+      "address": "belagavi",
+      "phone_no": "91-8861181119",
+      "no_of_share": 20,
+      "amount": 4500
+    },
+    {
+      "name": "Guru",
+      "address": "nidasoshi",
+      "phone_no": "91-8861181119",
+      "no_of_share": 10,
+      "amount": 2500
+    },
+    {
+      "name": "Veeru",
+      "address": "vijaypur",
+      "phone_no": "91-8861181119",
+      "no_of_share": 30,
+      "amount": 4500
+    },
+    {
+      "name": "Swami",
+      "address": "bangalore",
+      "phone_no": "91-8861181119",
+      "no_of_share": 10,
+      "amount": 4500
+    },
+    {
+      "name": "Kiran",
+      "address": "banglore",
+      "phone_no": "91-8861181119",
+      "no_of_share": 35,
+      "amount": 15750
+    },
+    {
+      "name": "Sandeep",
+      "address": "vijayapur",
+      "phone_no": "91-8861181119",
+      "no_of_share": 40,
+      "amount": 5000
+    },
+    {
+      "name": "Deepakchawla",
+      "address": "mumbai",
+      "phone_no": "91-9547786254",
+      "no_of_share": 13,
+      "amount": -1080
+    },
+    {
+      "name": "Deepakchawla",
+      "address": "mumau",
+      "phone_no": "91-8974563211",
+      "no_of_share": 123,
+      "amount": 12
+    },
+    {
+      "name": "Manju",
+      "address": "snk",
+      "phone_no": "91-8861181119",
+      "no_of_share": 50,
+      "amount": 4000
+    }
+  ]
+}

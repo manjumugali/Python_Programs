@@ -1,0 +1,28 @@
+{
+  "buy": [
+    {
+      "result": "Buy",
+      "no_of_share": "10"
+    },
+    {
+      "result": "Sell",
+      "no_of_share": "10"
+    },
+    {
+      "result": "Buy",
+      "no_of_share": "10"
+    },
+    {
+      "result": "Sell",
+      "no_of_share": "10"
+    },
+    {
+      "result": "Buy",
+      "no_of_share": "1"
+    },
+    {
+      "result": "Buy",
+      "no_of_share": "8"
+    }
+  ]
+}

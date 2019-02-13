@@ -1,0 +1,39 @@
+{
+  "stock": [
+    {
+      "name": "Google  ",
+      "no_of_share": 23,
+      "price": 150
+    },
+    {
+      "name": "Marvel  ",
+      "no_of_share": 25,
+      "price": 200
+    },
+    {
+      "name": "Oracle  ",
+      "no_of_share": 20,
+      "price": 100
+    },
+    {
+      "name": "BEL     ",
+      "no_of_share": 15,
+      "price": 1200
+    },
+    {
+      "name": "TCS     ",
+      "no_of_share": 11,
+      "price": 500
+    },
+    {
+      "name": "Facebook",
+      "no_of_share": 12,
+      "price": 1200
+    },
+    {
+      "name": "Flipkart",
+      "no_of_share": 2,
+      "price": 10000
+    }
+  ]
+}
